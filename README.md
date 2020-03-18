@@ -39,4 +39,4 @@ Due to the nature of the assignment, this project is not open to contributions. 
 
 * <a href="https://www.themoviedb.org/?language=en-US"><img src="https://www.themoviedb.org/assets/2/v4/logos/312x276-primary-blue-fb50dee3bf664c866fd216e6cee64af33d20707ea3091ddc65c5e8aa4c152eb2.png" width="40" height="40"  alt="TMDB Logo"/></a> Thanks to [The Movie Database](https://www.themoviedb.org/?language=en-US) for the use of their data. 
 * Thanks to [Kaggle](https://www.kaggle.com) for access to [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
-* Special thanks to Jacob Eli Thomas and Victor Geislinger, my instructors at Flatiron School, for their encouragement, instructruction, and guidance.
+* Special thanks to Jacob Eli Thomas and Victor Geislinger, my instructors at Flatiron School, for their encouragement, instruction, and guidance.
