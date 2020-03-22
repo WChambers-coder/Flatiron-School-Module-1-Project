@@ -51,7 +51,3 @@ Thanks to [The Movie Database](https://www.themoviedb.org/?language=en-US) for t
 
 <a href="https://www.kaggle.com"><img src="Images/kaggle.png" width="80" height="40"  alt="Kaggle Logo"/></a>
 Thanks to [Kaggle](https://www.kaggle.com) for access to [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
-
-*
-*
-*
