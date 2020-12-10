@@ -5,7 +5,7 @@ I've been given the following scenario for my Flatiron School Module 1 Project: 
 ## Getting Started
 ### Contents of Repository
 
-* **data_manipulation_and_visualization.ipynb** is a Jupyter Notebook containing all my analysis and visualizations for the project.
+* **data-manipulation-and-visualization.ipynb** is a Jupyter Notebook containing all my analysis and visualizations for the project.
 * **presentation.pdf** contains my powerpoint presentation for a non-technical audience.
 * **Data** is a directory containing:
   * **flatiron_data** contains all data provided by Flatiron School as CSV files. Data comes from IMDB, Rotten Tomatoes, and TMDB.
